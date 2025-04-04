@@ -20,8 +20,8 @@
 ### 6. Qué es React y sus Ventajas
 
 ### 7. Primeros pasos
->- npx create-react-app clean-react --template typescript 
->- cd clean-react
+>- npx create-react-app react-crud
+>- cd react-crud
 >- npm install react-router-dom
 >- npm install web-vitals
 >- npm install bootstrap@5.3.3
